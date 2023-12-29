@@ -1,0 +1,11 @@
+Flask
+gunicorn
+numpy
+Pillow
+dlib
+Flask-HTTPAuth
+"cloud-sql-python-connector[pymysql]"
+google-cloud-sql-connector
+sqlalchemy
+google-api-python-client
+google-cloud-storage
